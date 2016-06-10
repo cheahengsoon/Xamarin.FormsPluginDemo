@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\PluginDemo\PluginDemo\PluginDemo.WinPhone\PluginDemo.WinPhone.csproj;x86
+c:\users\user\documents\visual studio 2013\Projects\PluginDemo\PluginDemo\PluginDemo\PluginDemo.csproj;neutral
